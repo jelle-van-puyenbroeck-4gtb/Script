@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(18, 19, 19);
+    color: rgba(157, 147, 4, 0.998);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: rgb(41, 53, 53);
+    color: rgb(134, 124, 8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background-color: rgb(123, 118, 11);
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 20px;
+}
+
+nav a:hover {
+    background-color: #000000;
+}
+
+#nieuws {
+    background-color: #000000a4;
+}
+
+#nieuws {
+    background-color: rgba(0, 0, 0, 0.979);
+}
+img { 
+    width: 100%;
+}
+#gallerij h2 {
+    background-color: rgba(0, 0, 0, 0.979);
+}
+        background-color: rgba(0, 0, 0, 0.979);
+        
+{
+    Bac
+}
+
+    
+
+header{ 
+
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/martin-garrix-performs-live-on-stage-during-day-three-of-news-photo-1657099883.jpg)
+    ;
+}
+
+
+
+
