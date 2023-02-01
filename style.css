@@ -7,7 +7,7 @@ body{
 #about{
     display: flex;
     margin: 4% 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.534);
     border-radius: 50px;
 
 }
@@ -36,14 +36,24 @@ header,#about{
 header{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 1px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.534);
     border-radius: 60px;
     text-align: center;
 
 }
 
 footer{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.534);
     padding: 3px;
     border-radius: 30px;
+}
+
+body {
+    margin: O;
+    padding: 0;
+    color: rgb(255, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url(https://www.gannett-cdn.com/media/2022/03/11/USATODAY/usatsports/imageforentry36-jak.jpg?width=1200&disable=upscale&format=pjpg&auto=webp) no-repeat;
+    background-size: cover;
+    text-decoration-color: rgb(205, 205, 534);
 }
