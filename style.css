@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(43, 223, 226);
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#about{
+    display: flex;
+    margin: 4% 0;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+
+}
+
+.left{
+    flex: 3;
+}
+
+a:hover{
+    color: rgb(255, 255, 255);
+}
+
+.col{
+
+}
+
+.right{
+    flex: 7;
+    border-left: 2px dotted black;
+}
+
+header,#about{
+    margin: 0 5%;
+}
+
+header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 60px;
+    text-align: center;
+
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+    border-radius: 30px;
+}
