@@ -1,17 +1,19 @@
 header {
- 
+
     padding: 5%;
     background-color: rgb(255, 191, 0);
 }
+
 header nav li {
     display: inline
 }
 
-header img{
-    width: ;
+header img {
+    width: 300px;
 }
+
 header input {
-    border-radius:5px;
+    border-radius: 5px;
     padding: 3px 10px;
     width: 120px;
 }

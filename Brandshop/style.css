@@ -1,0 +1,25 @@
+body {
+    padding: 0%;  
+    background-color: aqua;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background-color: rgb(179, 158, 92);
+}
+
+header img {
+    width: 120px;
+}
+
+header nav li {
+    display: inline;
+}
+
+header input {
+    border-radius: 20px;
+}
