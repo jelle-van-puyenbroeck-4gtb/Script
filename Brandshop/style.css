@@ -63,3 +63,17 @@ figcaption {
     aspect-ratio: 2 / 3;
     object-fit: cover;
 }
+
+footer{
+    padding: 3rem;
+    background-color: black;
+}
+
+footer a {
+    text text-decoration: none;
+}
+
+footer li:first-child a {
+    font-weight: 900;
+    font-size: 1.2rem;
+}
